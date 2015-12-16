@@ -1,0 +1,22 @@
+$primary-color: blue;
+$secondary-color: green;
+
+p{
+	background-color:$primary-color;
+}
+
+.story{
+	p{
+		background-color:$secondary-color;
+	}
+
+	img{
+		height:25px;
+		width:25px;
+	}
+
+	h1{
+		font-size:40px;
+	}
+
+}

@@ -1,0 +1,12 @@
+p {
+  background-color: blue; }
+
+.story p {
+  background-color: green; }
+.story img {
+  height: 25px;
+  width: 25px; }
+.story h1 {
+  font-size: 40px; }
+
+/*# sourceMappingURL=site.css.map */
